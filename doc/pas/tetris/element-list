@@ -1,0 +1,14 @@
+edu.bu.pas.tetris
+edu.bu.pas.tetris.agents
+edu.bu.pas.tetris.game
+edu.bu.pas.tetris.game.minos
+edu.bu.pas.tetris.linalg
+edu.bu.pas.tetris.nn
+edu.bu.pas.tetris.nn.layers
+edu.bu.pas.tetris.nn.losses
+edu.bu.pas.tetris.nn.models
+edu.bu.pas.tetris.nn.optimizers
+edu.bu.pas.tetris.nn.test
+edu.bu.pas.tetris.rendering
+edu.bu.pas.tetris.training.data
+edu.bu.pas.tetris.utils
